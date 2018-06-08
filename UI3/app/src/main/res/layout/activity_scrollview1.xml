@@ -1,0 +1,175 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="horizontal"
+              android:paddingBottom="@dimen/activity_vertical_margin"
+              android:paddingLeft="@dimen/activity_horizontal_margin"
+              android:paddingRight="@dimen/activity_horizontal_margin"
+              android:paddingTop="@dimen/activity_vertical_margin"
+              tools:context="com.hy.appui.basicview.scrollview.ScrollviewActivity" >
+
+    <com.hy.appui.basicview.scrollview.LazyScrollView
+        android:id="@+id/view1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试1" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试2" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试3" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试4" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试5" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试6" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试7" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试8" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试9" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试10" />
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试11" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试12" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试13" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试14" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试15" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:text="试试16" />
+
+        </LinearLayout>
+    </com.hy.appui.basicview.scrollview.LazyScrollView>
+
+    <!--<com.androidui.basicview.scrollview.SmartScrollView-->
+        <!--android:id="@+id/view2"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent" >-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:orientation="vertical" >-->
+
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试a" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试b" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试c" />-->
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试d" />-->
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试e" />-->
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试f" />-->
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试g" />-->
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试h" />-->
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试i" />-->
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试j" />-->
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试k" />-->
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试l" />-->
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试m" />-->
+            <!--<TextView-->
+                <!--android:layout_width="100dp"-->
+                <!--android:layout_height="100dp"-->
+                <!--android:text="试试n" />-->
+        <!--</LinearLayout>-->
+    <!--</com.androidui.basicview.scrollview.SmartScrollView>-->
+
+</LinearLayout>

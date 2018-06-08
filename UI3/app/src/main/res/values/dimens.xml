@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--正规开发的规范写法是把尺寸放入dimens文件中-->
+<resources>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+
+</resources>
