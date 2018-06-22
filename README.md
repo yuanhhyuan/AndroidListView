@@ -65,7 +65,12 @@ view被上滚移除屏幕，这样的view称为offScreenView（也称为ScrapVie
 
 博客地址：https://mp.csdn.net/postedit/80762358
 
-SuperSwipeRefreshLayout
 
+四、SuperSwipeRefreshLayout 下拉刷新，上拉加载
 
-四、Gridview
+//三方库
+compile 'com.github.nuptboyzhb.lib.uikit:superswiperefreshlayout:1.0.0'
+
+给出了使用案例。
+
+五、Gridview
