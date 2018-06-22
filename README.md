@@ -54,12 +54,16 @@ view被上滚移除屏幕，这样的view称为offScreenView（也称为ScrapVie
 然后ScrapView会被listview删除，而RecycleView会将这部分保存。
 而listview底部需要显示的view会从RecycleBin里面取出一个ScrapView。
 
+博客地址：https://mp.csdn.net/postedit/80760012
+
 
 二、Scrollview
 
+博客地址：https://mp.csdn.net/postedit/80764411
 
 三、Recyclerview
 
+博客地址：https://mp.csdn.net/postedit/80762358
 
 SuperSwipeRefreshLayout
 
